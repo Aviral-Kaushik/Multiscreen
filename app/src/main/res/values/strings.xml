@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="numbers_activity_label">Numbers</string>
+    <string name="family_activity_label">Family</string>
+    <string name="phrases_activity_label">Phrases</string>
+    <string name="colors_activity_label">Colors</string>
+    <string name="main_activity_label">MultiScreens</string>
+</resources>
